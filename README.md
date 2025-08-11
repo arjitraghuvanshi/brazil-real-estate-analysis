@@ -58,10 +58,3 @@ The analysis applies **data cleaning, exploratory data analysis (EDA), statistic
 You can view the complete notebook with outputs directly on GitHub:  
 [**Open Notebook**](./Brazilian%20Real%20Estate%20Market%20Analysis.ipynb)  
 
-Or run it locally:  
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-
-# Open Jupyter Notebook
-jupyter notebook
